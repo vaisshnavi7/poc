@@ -1,0 +1,8 @@
+
+
+describe('Details Selectors', () => {
+    it('should select the feature state', () => {
+      
+    });
+  });
+  
